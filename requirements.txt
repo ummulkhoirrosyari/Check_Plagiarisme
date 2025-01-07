@@ -7,4 +7,3 @@ pytesseract
 matplotlib
 Pillow
 selenium 
-webdriver
