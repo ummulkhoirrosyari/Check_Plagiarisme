@@ -1,0 +1,10 @@
+streamlit
+scikit-learn
+requests
+beautifulsoup4
+pdfplumber
+pytesseract
+matplotlib
+Pillow
+selenium 
+webdriver
